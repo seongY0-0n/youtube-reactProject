@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Videos from "./pages/Videos";
 import Root from "./pages/Root";
 import VideoDetail from "./pages/VideoDetail";
